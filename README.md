@@ -1,1 +1,5 @@
-# devops-aula02
+#Atores preferidos
+
+#Letícia Spiler
+#Cléo Pires
+#Wagner Moura 
